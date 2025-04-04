@@ -27,13 +27,15 @@ Si quieres hablar sobre proyectos, colaborar o intercambiar ideas sobre tecnolog
 [![Email](https://img.shields.io/badge/email-javiiisc22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:javiiisc22@gmail.com)
 [![Instagram](https://img.shields.io/badge/@jaaviisc-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jaaviisc)
 [![GitHub](https://img.shields.io/badge/GitHub-Javito222-181717?style=flat&logo=github)](https://github.com/Javito222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Sánchez_Cacho-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sánchez-cacho-b404932b3)
+
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🧾 Lenguajes de Programación  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 🖥️ Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)

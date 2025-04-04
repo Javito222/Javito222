@@ -63,7 +63,7 @@ Si quieres hablar sobre proyectos, colaborar o intercambiar ideas sobre tecnolog
 
 ## 🏆 Certificaciones y experiencia
 
-- ✔️ Curso de Django en Python – Videocursos  
+- ✔️ [Curso de Django en Python – Videocursos](https://videocursos.co/verificacion/73612CCFB4-73559B60C5-150F9A4E7/)  
 - ✔️ Prácticas en el grupo de investigación GRIAL (USAL)  
 - ✔️ Community Manager – C.F. Cabrerizos
 
